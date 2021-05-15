@@ -12,7 +12,7 @@
 - 📫 How to reach me **frias.caio@yahoo.com.br**
 
 [![Linkedin Badge](https://img.shields.io/badge/-caio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/caio-frias-3705a814b/)](https://linkedin.com/in/caio-frias-3705a814b/)
-![dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/sousacaio)
+![dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/sousacaio)(https://dev.to/sousacaio)
 
 
 <h3 align="left">Languages and Tools:</h3>
