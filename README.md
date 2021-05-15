@@ -11,15 +11,6 @@
 
 - 📫 How to reach me **frias.caio@yahoo.com.br**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1QrjvRqGXai9DIeTAmjzw44avQ5Km9v_c](https://drive.google.com/drive/u/0/folders/1QrjvRqGXai9DIeTAmjzw44avQ5Km9v_c)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/sousacaio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sousacaio" height="30" width="40" /></a>
 [![Linkedin Badge](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/caio-frias-3705a814b/)](https://linkedin.com/in/caio-frias-3705a814b/)
 
 <h3 align="left">Languages and Tools:</h3>
