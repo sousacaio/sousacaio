@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript,Angular Js, Graphql, RabbitMq**
 
-- 📝 I regularly write articles on [https://dev.to/sousacaio](https://dev.to/sousacaio)
+- 📝 I regularly try to write articles on [https://dev.to/sousacaio](https://dev.to/sousacaio)
 
 - 💬 Ask me about **React Native, React Js, Redux**
 
