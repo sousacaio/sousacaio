@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Caio</h1>
-<h3 align="center">A development subcoordinator from Brazil</h3>
+<h3 align="center">A backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on **SdBusiness**
+- 🔭 I’m currently working on **Extreme Digital Solutions**
 
-- 🌱 I’m currently learning **Typescript,Angular Js, Graphql, RabbitMq**
+- 🌱 I’m currently learning **ElasticSearch,Go,Redis**
 
 - 📝 I regularly try to write articles on [https://dev.to/sousacaio](https://dev.to/sousacaio)
 
-- 💬 Ask me about **React Native, React Js, Redux**
+- 💬 Ask me about **Typescript,Javascript,React Js and React Native**
 
 - 📫 How to reach me **frias.caio@yahoo.com.br**
 
